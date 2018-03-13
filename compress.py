@@ -15,5 +15,5 @@ chars=["a","b","b","b","b","b","b","b","b","b","b","b","b"]
 print (compress(chars))
 
 
- 
+
 
