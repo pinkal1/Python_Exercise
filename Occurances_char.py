@@ -21,5 +21,5 @@ def  count_occurances_visual(s):
         print ('{char}:{count}'.format(char=char,count = count))
 
 #s= raw_input()
-s='Twi%tt**er is awes/om& e%'
+s='wwi%rt**er is awes/om& e%'
 print  (count_occurances_visual(s))
